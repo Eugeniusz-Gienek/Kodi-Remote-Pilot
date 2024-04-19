@@ -26,3 +26,9 @@ Connect according to schematics and put into some nice plastic box
 * [DFRobot_VisualRotaryEncoder Library](https://github.com/DFRobot/DFRobot_VisualRotaryEncoder)
 * [BleKeyboard library](https://github.com/oden-umaru/ESP32C3-BLE-Keyboard)
 * [NimBLE-Arduino library](https://github.com/h2zero/NimBLE-Arduino)
+
+# Result
+
+![View 1](result1.png)
+![View 2](result2.png)
+![View 3](result3.png)
