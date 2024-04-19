@@ -14,6 +14,7 @@ List of parts needed:
 * 2 momentary switches
 * 1 bistable switch (turn on-off)
 * 1 battery 4.2V
+* Wires (AWG28 will be absolutely enough)
 * 1 USB charging module for the battery (like [this](https://botland.store/charger-modules-for-li-po-batteries/6944-lipol-charger-tp4056-1s-37v-microusb-with-5904422375355.html))
 * Rotary Encoder module (I used [DFRobot SEN0502](https://wiki.dfrobot.com/SKU_SEN0502_Rotary_Encoder_Module_I2C))
 * Arduino-compatible Joystick (I used [Iduino ST1079](https://botland.store/joystick/1942-thumb-joystick-5904422356231.html))
