@@ -11,7 +11,7 @@ The schematics looks like this (image below):
 
 List of parts needed:
 * 1 x [ESP32 C3 Super Mini](https://www.aliexpress.com/w/wholesale-esp32-c3-super-mini.html?spm=a2g0o.home.search.0) (or [similar](https://botland.store/esp32-wifi-and-bt-modules/23869-esp32-c3-zero-mini-development-board-with-soldered-connections-esp32-c3fn4-waveshare-25452.html)).
-  > **Important!!!!** Not all ESP32 C3's pinout is the same - please duble or even better triple check the pin numbers!
+  > **Important!!!!** Not all ESP32 C3's pinout is the same - please double or even better triple check the pin numbers!
 * 2 x [momentary switches](https://botland.store/79-tact-switch)
 * 1 x [bistable switch (turn on-off)](https://botland.store/search?s=bistable%20switch)
 * 1 x [battery 4.2V](https://botland.store/275-battery-li-pol-1s-37-v)
